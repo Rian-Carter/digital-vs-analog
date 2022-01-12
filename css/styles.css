@@ -17,3 +17,7 @@ body {
 .analog p a {
   font-style: italic;
 }
+
+h2 {
+  font-size: 32px;
+}
